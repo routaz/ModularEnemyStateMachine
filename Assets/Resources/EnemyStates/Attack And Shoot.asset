@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9ea731c252438049b912afd861bb275, type: 3}
+  m_Name: Attack And Shoot
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 2149432907033679355, guid: 4f269979e147818468ea9ab57f4158fc, type: 3}
+  projectileSpeed: 40
+  amountOfShotsBeforeIdle: 3
+  preDelayBeforeShots: 1
+  delayBetweenShots: 1
